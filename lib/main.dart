@@ -11,8 +11,6 @@ import 'models/transaction.dart';
 void main() {
 
 // first commit
-
-// this is mistake
 runApp(const MyApp());
 }
 
