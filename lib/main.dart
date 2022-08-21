@@ -9,6 +9,7 @@ import 'package:personal_expenses/widgets/transaction_list.dart';
 import 'models/transaction.dart';
 
 void main() {
+  // second task
 // task for test only
   runApp(const MyApp());
 }
